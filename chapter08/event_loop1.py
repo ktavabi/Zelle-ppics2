@@ -1,7 +1,7 @@
 # event_loop1.py
 #      Simple color changing window with keyboard controls
 
-from chapter04.graphics import *
+from graphics import *
 
 def main():
     win = GraphWin("Color Window", 500, 500)

@@ -3,7 +3,7 @@
 # Button and DieView.
 
 from random import randrange
-from chapter04.graphics import GraphWin, Point
+from graphics import GraphWin, Point
 
 from button import Button
 from dieview import DieView 

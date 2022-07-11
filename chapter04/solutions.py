@@ -10,7 +10,7 @@
 @Desc    :   PPIC-Zelle Chapter 4 solutions
 '''
 
-from chapter04.graphics import * 
+from graphics import * 
 mywin = GraphWin("ponies!!", 600, 500)
 mywin.setBackground("lightblue")
 click = mywin.getMouse()   # will pause here until mouse clicked in graph win

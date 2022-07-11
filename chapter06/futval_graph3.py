@@ -1,5 +1,5 @@
 # futval_graph3.py
-from chapter04.graphics import *
+from graphics import *
 
 def drawBar(window, year, height):
     # Draw a bar in window starting at year with given height
