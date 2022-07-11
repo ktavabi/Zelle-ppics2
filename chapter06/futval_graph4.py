@@ -1,6 +1,6 @@
 # futval_graph4.py
 
-from chapter04.graphics import *
+from graphics import *
 
 def createLabeledWindow():
     window = GraphWin("Investment Growth Chart", 320, 240)

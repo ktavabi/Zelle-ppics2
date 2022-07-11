@@ -1,6 +1,6 @@
 # futval_graph.py
 
-from chapter04.graphics import *
+from graphics import *
 
 def main():
     # Introduction

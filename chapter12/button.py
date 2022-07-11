@@ -1,5 +1,5 @@
 # button.py
-from chapter04.graphics import *
+from graphics import *
 
 class Button:
 
