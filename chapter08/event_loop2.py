@@ -1,7 +1,7 @@
 # event_loop2.py --- color changing window
 #      reorganized to incorporate mouse inputs
 
-from graphics import *
+from chapter04.graphics import *
 
 def handleKey(k, win):
     if k == "r":

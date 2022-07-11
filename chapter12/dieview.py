@@ -1,5 +1,5 @@
 # dieview.py
-from graphics import *
+from chapter04.graphics import *
 class DieView:
     """ DieView is a widget that displays a graphical representation
     of a standard six-sided die."""

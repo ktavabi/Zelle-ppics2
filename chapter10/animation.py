@@ -3,7 +3,7 @@
 # single-shot cannonball animation
 
 from math import sqrt, sin, cos, radians, degrees
-from graphics import *
+from chapter04.graphics import *
 from projectile import Projectile
 from button import Button
 

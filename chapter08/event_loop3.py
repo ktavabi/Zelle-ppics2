@@ -1,7 +1,7 @@
 # event_loop3.py 
 #      Color changing window with clicks to enter text
 
-from graphics import *
+from chapter04.graphics import *
 
 def handleKey(k, win):
     if k == "r":

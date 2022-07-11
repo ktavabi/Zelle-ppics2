@@ -2,7 +2,7 @@
 # Program to convert Celsius to Fahrenheit using a simple
 #   graphical interface.
 
-from graphics import *
+from chapter04.graphics import *
 
 def main():
     win = GraphWin("Celsius Converter", 400, 300)

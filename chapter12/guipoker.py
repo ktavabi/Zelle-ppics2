@@ -1,6 +1,6 @@
 # guipoker.py
 
-from graphics import *
+from chapter04.graphics import *
 from pokerapp import PokerApp
 from button import Button
 from cdieview import ColorDieView
