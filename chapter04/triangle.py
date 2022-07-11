@@ -1,4 +1,4 @@
-# triangle.pyw
+# triangle.py
 from graphics import *
 
 def main():

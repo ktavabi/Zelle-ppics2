@@ -1,10 +1,13 @@
 # Python Programming: Introduction to Computer Science
+
 This repository features my solutions to the well known *Python Programming: Introduction to Computer Science* book by John Zelle.
 
-#### Disclaimer:
+## Disclaimer
+
 This repo is provided as is to serve as an example repository for others reading this book to check their solutions against mine.
 
 ## Table of Contents
+
 1. [Computers and Programs](https://github.com/ktavabi/PPIC-Zelle/chapter01)
 2. [Writing Simple Programs](https://github.com/ktavabi/PPIC-Zelle/chapter02)
 3. [Computing With Numbers](https://github.com/ktavabi/PPIC-Zelle/chapter03)
