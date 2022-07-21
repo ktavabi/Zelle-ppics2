@@ -1,7 +1,11 @@
-# triangle.py
-from graphics import *
+#!/usr/bin/env python
+# -*-coding:utf-8 -*-
+"""triangle.py"""
+from graphics import GraphWin, Text, Polygon, Point
+
 
 def main():
+    """get mouse clicks, draw triangle"""
     win = GraphWin("Draw a Triangle")
     win.setCoords(0.0, 0.0, 10.0, 10.0)
     message = Text(Point(5, 0.5), "Click on three points")
@@ -16,7 +20,7 @@ def main():
     p3.draw(win)
 
     # Use Polygon object to draw the triangle
-    triangle = Polygon(p1,p2,p3)
+    triangle = Polygon(p1, p2, p3)
     triangle.setFill("peachpuff")
     triangle.setOutline("cyan")
     triangle.draw(win)
@@ -24,5 +28,6 @@ def main():
     # Wait for another click to exit
     message.setText("Click anywhere to quit.")
     win.getMouse()
+
 
 main()
